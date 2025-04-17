@@ -1,0 +1,14 @@
+# Ignore system and editor files
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Ignore compiled C++ files
+*.exe
+*.out
+*.obj
+*.o
+
+# Ignore temporary files
+*.log
+*.tmp
